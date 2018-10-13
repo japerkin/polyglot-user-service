@@ -1,0 +1,19 @@
+{
+  "name": "polyglot-user-service",
+  "version": "1.0.0",
+  "description": "Account management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japerkin/polyglot-user-service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japerkin/polyglot-user-service/issues"
+  },
+  "homepage": "https://github.com/japerkin/polyglot-user-service#readme"
+}
